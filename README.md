@@ -11,4 +11,4 @@ since its the class with the main function it compiles everything.
 Then, run the command
 jar cfe myjar.jar BuildTrafficLight *.class
 
-![Traffic Lights Simulator](/Images/running.png?raw=true "Traffic Lights Simulator")
+![Traffic Lights Simulator](/Images/running.PNG "Traffic Lights Simulator")
